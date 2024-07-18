@@ -4,7 +4,7 @@
 - 📫 How to reach me: melissanespeque@gmail.com / /melissanespeque on LinkedIn
 - 😄 Pronouns: She/Her - Ela/Dela
 - ⚡ Fun fact: I'm vegan
-- 🤓 About me: I love to travel and surf. Learn new thinks and try new sports. You'll probably find me at a street samba
+- 🤓 About me: I love to travel and surf. Learn new things and try new sports. You'll probably find me at a street samba 
 
 <!---
 melissanespeque/melissanespeque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
