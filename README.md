@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @melissanespeque
-- 👀 I’m interested in BI, Data Analysis, Data Science
-- 🌱 I’m currently learning Data Science, Big Data & Italian
-- 📫 How to reach me: melissanespeque@gmail.com / https://www.linkedin.com/in/melissanespeque/
+- 👀 I’m interested in Physics & Data Science/Analysis
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: melissanespeque@gmail.com / https://linkedin.com/in/melissanespeque/
 - 😄 Pronouns: She/Her - Ela/Dela
 - ⚡ Fun fact: I'm vegan
-- 🤓 About me: I love to travel and surf. Learn new things and try new sports. You'll probably find me at a street samba 
+- 🤓 About me: I love to travel and surf. Learn new things everyday and try new sports. You'll most likely find me smiling and dancing at a street samba wearing flip flops. 
 
 <!---
 melissanespeque/melissanespeque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
