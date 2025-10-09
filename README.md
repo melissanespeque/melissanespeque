@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @melissanespeque
 - 👀 I’m interested in Physics & Data Science/Analysis
-- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: melissanespeque@gmail.com / https://linkedin.com/in/melissanespeque/
 - 😄 Pronouns: She/Her - Ela/Dela
-- ⚡ Fun fact: I'm vegan
 - 🤓 About me: I love to travel and surf. Learn new things everyday and try new sports. You'll most likely find me smiling and dancing at a street samba wearing flip flops. 
 
 <!---
